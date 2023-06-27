@@ -4,3 +4,4 @@ yv=2*xv.^2 + 22*xv + 2;
 ypoly=polyfit(xv,yv,2);
 yval=polyval(ypoly,xv);
 "cat + mouse = cat";
+yv3=exp(xv);
