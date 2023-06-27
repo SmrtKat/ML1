@@ -5,3 +5,4 @@ ypoly=polyfit(xv,yv,2);
 yval=polyval(ypoly,xv);
 "cat + mouse = cat";
 yv3=exp(xv);
+yv4=sin(xv);
