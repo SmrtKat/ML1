@@ -6,6 +6,6 @@ yval=polyval(ypoly,xv);
 "cat + mouse = cat";
 yv3=exp(xv);
 "abcd";
-yv4=sin(xv);
+yv4a=sin(xv);
 yv5=cos(xv);
-yv4=sin(xv);
+yv4b=sin(xv);
